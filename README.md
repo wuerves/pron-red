@@ -14,7 +14,6 @@ DogYun 优惠码: [点我链接（每月仅需￥25）](https://www.dogyun.com/?
 
 ------------
 
-![香港大带宽主机：DogYun (狗云)](https://download.shluqu.cn/wp-content/uploads/2021/05/QQ%E6%88%AA%E5%9B%BE20210510124515-1024x553.png "香港大带宽主机：DogYun (狗云)")
 
 | 位置  |   CPU| 内存  | 硬盘  |  带宽 | 流量  |  IP |  价格 |  购买链接 |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ |
@@ -45,3 +44,7 @@ DogYun 优惠码: [点我链接（每月仅需￥25）](https://www.dogyun.com/?
 | 香港 - 进阶版 | 4 核 | 8 GiB | 120 G | 60 Mbps | 2000 GB / 月 | BGP - 原生  | ￥150.00 / 月 | [购买](https://vm.dogyun.com/server/create/53?ref=jv98open "购买") | 
 | 香港 - 进阶版 | 8 核 | 16 GiB | 180 G | 70 Mbps | 3000 GB / 月 | BGP - 原生  | ￥280.00 / 月 | [购买](https://vm.dogyun.com/server/create/54?ref=jv98open "购买") | 
 | 香港 - CLD | 1 核 | 1 GiB | 15 G | 30 Mbps | 300 GB / 月 | 无  | ￥10.00 / 月 | [购买](https://vm.dogyun.com/server/create/35?ref=jv98open "购买") | 
+
+
+
+![香港大带宽主机：DogYun (狗云)](https://github.com/pcb900817/pron-red/blob/742767a043a1b97c2674e60be685899ac1896f05/68747470733a2f2f646f776e6c6f61642e73686c7571752e636e2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f515125453625383825414125453525394225424532303231303531303132343531352d31303234783535332e706e67.png "香港大带宽主机：DogYun (狗云)")
